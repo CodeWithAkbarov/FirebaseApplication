@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938448169911",
+    "project_id": "fir-application-c8fd8",
+    "storage_bucket": "fir-application-c8fd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938448169911:android:d5a6365e9c865a0967d632",
+        "android_client_info": {
+          "package_name": "iqro.mobile.firebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938448169911-i00c4apaeti4nfk5fpfftaul5iudlego.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK2ERH9QI4n6gk7jo_3TLJpidCzSjtr4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938448169911-i00c4apaeti4nfk5fpfftaul5iudlego.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
